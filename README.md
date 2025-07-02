@@ -33,7 +33,7 @@ I'm committed to continuous learning and developing cutting-edge applications th
 
 Feel free to reach out or explore more of my work:
 
-- 💼 [LinkedIn](https://linkedin.com/in/moeezsalman) *(update with your actual profile link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/moeez-salman-210b86292/) *(update with your actual profile link)*
 - 💻 [GitHub](https://github.com/MoeezSalman)
 - ✉️ moeezsalman@gmail.com
 
